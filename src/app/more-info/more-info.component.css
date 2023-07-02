@@ -29,6 +29,10 @@ h1{
 }
 .textImage{
   text-align: left;
+  
+}
+.card{
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 .btnDown{
@@ -75,9 +79,31 @@ h1{
   display: flex;
   justify-content: left;
   align-items: left;
+
+}
+.carousel-control-prev{
+  justify-content: center;
+
+}
+.carousel-control-next{
+  justify-content: center;
 }
 
 .prueba{
- background-color: #00095b;
  
+ display: flex;
+ 
+}
+.carrusel-image{
+  width: 30%;
+  height: 30%;
+  border-color: transparent;
+  border: none;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.image{
+  width: 100%;
+  height: 100%;
+  border-radius: 2%;
+  
 }
