@@ -1,0 +1,40 @@
+.image{
+    height: 30rem;
+    width: 100% !important;
+}
+.textImage{
+    text-align: left;
+    display: inline;
+   
+}
+.info{
+    background-color: #00095b;
+    color: white;
+}
+
+.btn{
+    border-color: white;
+    background-color: none;
+    color:white;
+    margin-bottom: 0px;
+    border-radius: 2rem;
+    border: 2px solid ;
+    cursor: pointer;
+}
+.btn:hover{
+    color:#00095b;
+    background-color: white;
+    border-color: transparent;
+   
+ }
+
+ .aux{
+    border-color: #00095b !important;
+    background-color: #00095b;
+    color:white;
+    margin-bottom: 0px;
+    border-radius: 2rem;
+    border: 2px solid ;
+    cursor: pointer;
+}
+

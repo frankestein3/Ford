@@ -1,0 +1,33 @@
+.panel{
+    padding: 80px 20px 20px
+    
+}
+i{
+      font-size: 30px  ;
+      color: #00095b;
+}
+
+.text-footer{
+    padding: 20px 0px 20px;
+    color: #00095b;
+    font-size: 12px;
+}
+.footer-media{
+    display: flex;
+}
+.left-text{
+    padding: 13px 20px 28px;
+}
+.row{
+    padding: 0px 20px 10px;
+    
+}
+.title{
+    padding: 15px;
+}
+.link-explorer{
+    color: #00095b;
+   
+    text-decoration: none;
+  
+}

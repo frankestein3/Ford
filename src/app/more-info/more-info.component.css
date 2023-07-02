@@ -1,0 +1,83 @@
+h1{
+    color: #00095b;
+}
+.link-explorer{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+  
+}
+.link-explorer:hover{
+    color: #4d5bdf;
+    outline: none;
+}
+.card-img-top{
+  height: 18rem;
+}
+.card-info{
+  display: flex;
+}
+.cards-img{
+  height: 25rem;
+}
+.info{
+  background-color: #00095b;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.textImage{
+  text-align: left;
+}
+
+.btnDown{
+  border-color: white;
+  background-color: none;
+  color:white;
+  margin-bottom: 0px;
+  border-radius: 2rem;
+  border: 2px solid ;
+  cursor: pointer;
+}
+.btnDown:hover{
+  color:#00095b;
+  background-color: white;
+  border-color: transparent;
+ 
+}
+
+
+
+.carousel-control-next {
+  background-color: #001a7b;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 10%;
+  right: 41%;
+  top: 110%;
+  transform: translateY(-50%);
+  position: absolute;  
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+
+.carousel-control-prev {
+  background-color: #001a7b;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 10%;
+  top: 110%;
+  left: 38%;
+  transform: translateY(-50%);
+  position: absolute;  
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.prueba{
+ background-color: #00095b;
+ 
+}

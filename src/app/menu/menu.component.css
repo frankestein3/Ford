@@ -1,0 +1,48 @@
+.logo{
+    width: 50%;
+}
+.bi{
+    font-size: 180%;
+    color: white;
+    padding: 3px 4px 3px;
+}
+.iconUser{
+    color: #00095b !important;
+}
+.nav-link{
+   
+    font-size: 18px;
+    font-weight: 500;   
+    color: #00095b !important;
+}
+.nav-link:hover{ 
+    color: #4d5bdf !important;
+}
+.container{
+    min-width: 22rem;
+    padding: 32px 45px 10px;
+    left: unset;
+    right: 35px;
+    top: 65px;
+   
+}
+.circle{
+    max-width: 65px;
+    max-height: 65px;
+    border-radius: 50%;
+    background-color: #00095b;
+    align-self: center;
+    justify-content: center;
+    height: 63px;
+}
+.row{
+    height: 150px;
+    
+}
+.text{
+   text-align: center;
+}
+.menu-icon{
+    width: 28%;
+}
+
